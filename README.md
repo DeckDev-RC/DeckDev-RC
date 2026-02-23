@@ -324,7 +324,7 @@ class DeckDev {
 <a href="https://github.com/DeckDev-RC">
   <img src="https://img.shields.io/badge/GitHub-DeckDev--RC-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://linkedin.com/in/DeckDev-RC">
+<a href="https://www.linkedin.com/in/renato-costa-73738b278">
   <img src="https://img.shields.io/badge/LinkedIn-DeckDev--RC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
