@@ -256,12 +256,14 @@ class DeckDev {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeckDev-RC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7DD3FC&text_color=C9D1D9&ring_color=A78BFA" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeckDev-RC&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7DD3FC&currStreakLabel=A78BFA&sideLabels=C9D1D9&sideNums=7DD3FC&currStreakNum=7DD3FC&dates=545D6A" alt="GitHub Streak" />
+<!-- STREAK (funciona via herokuapp) -->
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeckDev-RC&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7DD3FC&currStreakLabel=A78BFA&sideLabels=C9D1D9&sideNums=7DD3FC&currStreakNum=7DD3FC&dates=545D6A" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeckDev-RC&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<!-- STATS + LANGS lado a lado com instância alternativa -->
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeckDev-RC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7DD3FC&text_color=C9D1D9&ring_color=A78BFA&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeckDev-RC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 <br/><br/>
 
